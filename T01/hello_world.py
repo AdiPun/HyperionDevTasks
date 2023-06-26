@@ -1,0 +1,5 @@
+user_name = input("Hi What's your name?")
+print(user_name)
+user_age = input("What's your age?")
+print(user_age)
+print("Hello World!")
